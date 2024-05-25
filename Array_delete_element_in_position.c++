@@ -22,7 +22,7 @@ int main() {
     for (int i = pos - 1; i < n - 1; i++) {  
         a[i] = a[i + 1];
     }
-    n--;
+    n--; 
 
        
 
